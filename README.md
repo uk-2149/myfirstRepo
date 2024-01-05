@@ -1,6 +1,8 @@
 # myfirstRepo
-name - Utkal
+Name - Utkal
 <br>
-role- learner
+Role- Learner
 <br>
-age- 17
+Age- 18
+<br>
+- Currently Learning Web Development 🕸️
